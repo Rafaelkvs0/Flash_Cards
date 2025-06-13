@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia',
+    'Qual a capital da Alemanha?',
+    'A capital da Alemanha se chama Berlim.'
+)
+
+criaCartao(
+    'História',
+    'Quanto tempo durou a guerra dos cem anos?',
+    'Ela continuou por 116 anos.'
+)
+
+criaCartao(
+    'Biologia',
+    'Qual o nome científico do ser humano',
+    'Nosso nome científico é homo sapiens sapiens'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que significa a sigla ONU',
+    'Organização das Nações Unidas'
 )
